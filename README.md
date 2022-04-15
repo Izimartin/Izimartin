@@ -7,13 +7,13 @@
 > <a href="https://www.linkedin.com/in/izimartin" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 >      alt="Izi Martin" height="30" width="40" /></a> 
->    <a href="https://wa.link/4clrdv" target="_blank_"><img align="center"
+>    <a href="https://wa.link/k65d3f" target="_blank_"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
 >      alt="Izi Martin" height="30" width="40" /></a> 
 >  <a href="https://fb.com/izimartin" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 >      alt="Izi Martin" height="30" width="40" /></a> 
->  <a href="https://www.instagram.com/tolucoder" target="_blank"><img align="center"
+>  <a href="https://www.instagram.com/izimartin" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 >      alt="Izi Martin" height="30" width="40" /></a> 
 > <a href="https://twitter.com/Izimartin" target="_blank"><img align="center"
