@@ -1,10 +1,10 @@
 
- ![MasterHead](https://drive.google.com/file/d/1TgogTr4tH66QFc0kXj7Q2beT-7vCMFys/view?usp=share_link)
+ ![MasterHead](https://web.facebook.com/photo/?fbid=6028734467212177&set=a.349620685123612)
 <h1 align="center">Hi 👋, I'm Martins Akhivbareme </h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="450" src="https://github.com/Izimartin/git-tutorial/blob/master/giphy.gif"></a></p>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1TgogTr4tH66QFc0kXj7Q2beT-7vCMFys/view?usp=share_link" alt="Izimartin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Izimartin&label=Profile%20views&color=0e75b6&style=flat" alt="Izimartin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Izimartin" target="blank"><img src="https://img.shields.io/twitter/follow/Izimartin?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
