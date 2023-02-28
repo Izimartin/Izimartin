@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/D4D16AQGJG7mjNhnJyA/profile-displaybackgroundimage-shrink_350_1400/0/1677554495503?e=1683158400&v=beta&t=I7PuQmIyE9Ov0GseVeJ-2BEjPTiU2UieLzbZS77nG6Y" alt="Izimartin" />
+<img src="https://github.com/Izimartin/Personal-Portfolio/blob/main/assets/img/Profile%20Back.png" alt="Izimartin" />
 <h1 align="center">Hi 👋, I'm Martins Akhivbareme </h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="450" src="https://github.com/Izimartin/git-tutorial/blob/master/giphy.gif"></a></p>
