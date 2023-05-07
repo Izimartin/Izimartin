@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Izimartin/Personal-Portfolio/blob/main/assets/img/TDT.png" alt="Izimartin">
+  <img src="https://github.com/Izimartin/Personal-Portfolio/blob/main/assets/img/TDT.png" alt="Izimartin" style="max-width: 100%;">
 </p>
 <h1 align="center">Hi 👋, I'm Martins Akhivbareme </h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
