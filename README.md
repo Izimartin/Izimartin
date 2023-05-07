@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Izimartin/Personal-Portfolio/blob/main/assets/img/Profile%20Back.png" alt="Izimartin" />
+<img src="https://github.com/Izimartin/Personal-Portfolio/blob/main/assets/img/TDT.png" alt="Izimartin" />
 <h1 align="center">Hi 👋, I'm Martins Akhivbareme </h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="450" src="https://github.com/Izimartin/git-tutorial/blob/master/giphy.gif"></a></p>
