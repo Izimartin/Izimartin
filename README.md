@@ -5,19 +5,19 @@
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="450" src="https://github.com/Izimartin/git-tutorial/blob/master/giphy.gif"></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Izimartin&label=Profile%20views&color=0e75b6&style=flat" alt="Izimartin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Izimartin&label=Profile%20views&color=0e75b6&style=flat" alt="Martins" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Izimartin" target="blank"><img src="https://img.shields.io/twitter/follow/Izimartin?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Izimartin" target="blank"><img src="https://img.shields.io/twitter/follow/Izimartin?logo=twitter&style=for-the-badge" alt="Izimartin" /></a> </p>
 
 - 🔭 I’m currently working on **Projects in HTML, CSS & JavaScript**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m also learning **Python Programming**
 
-- 🌱 I’m currently learning **React & Dart**
+- 💬 You can ask me about **React && NODEJS**
 
-- 💬 Ask me about **Web and Cross platform Mobile App Development**
+- 📫 How to reach me **Izimartinz@gmail.com**
 
-- 📫 How to reach me **izimartinz@gmail.com**
+- ⚡ Fun fact **I'm a graduate of ALX Software Engineering Cohort 6**
 
 - ⚡ Fun fact **I am a student of the ALX Software Engineering Program**
 
@@ -26,12 +26,11 @@
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/izimartin/dashboard)
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IziMartin/featured)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@izimartin)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izimartin/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/izimartinz/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martinsakhivbareme.netlify.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/62h1vu)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/izimartinz)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martinsakhivbareme.tech/)
+[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IziMartin/featured)
 
-### 🛠 Tools and Framework
+### 🛠 Tool and Framework
 
 | Name                                    | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,13 +44,19 @@
 
 <hr>
 
-### 👔 Soft skills
+### 👔 Soft skills.
 
-✅ Work collaboratively in a team
+✅ Cross-platform development skills
 
-✅ Meet tight deadlines
+✅ Creativity
 
-✅ Good communication skills.
+✅ Good communication skills
+
+✅ Problem solving
+
+✅ Teamwork
+
+✅ Front-end computing
 
 <hr>
 
@@ -71,7 +76,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Izimartin&theme=dark" alt="Izimartin" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+ <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
 
 > <a href="https://github.com/Izimartin/github-readme-activity-graph"><img alt="Martins Akhivbareme' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Izimartin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
