@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I'm a graduate of ALX Software Engineering Cohort 6**
 
-- 🔭 I'm a member of **Google Developer Group, Ahmadu Bello University**
+- 🔭 I'm a member of **Google Developer Group, Ahmadu Bello-University**
 
 ## 🔗 Links:
 
