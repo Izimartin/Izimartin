@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Martins Akhivbareme Github Profile</h1>
-<h3 align="center">An Experienced React and NodeJS Developer</h3>
+<h3 align="center">Frontend Specialist | React & Node.js Developer</h3>
+<p align="center">Building web apps with JavaScript, React, Tailwind, Express.js, and WordPress.</p>
 <img align= "right" alt="CodingGuy" width="400" src="https://github.com/Izimartin/git-tutorial/blob/master/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Izimartin&label=Profile%20views&color=0e75b6&style=flat" alt="Martins" /> </p>
